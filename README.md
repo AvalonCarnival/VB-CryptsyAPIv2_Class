@@ -1,8 +1,6 @@
 # VB-CryptsyAPIv2_Class
 VB.Net Cryptsy APIv2 Class
 
-VB.Net Cryptsy APIv2 Class
-
 This class can be used in a Visual Studio dotNet Project to query www.Cryptsy.com.
 
 Trading crypto currencies can be high risk and you can lose money. This code is supplied without warranty.
